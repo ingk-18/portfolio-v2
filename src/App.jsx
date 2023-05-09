@@ -101,8 +101,8 @@ function App() {
         <div className="container px-5 py-24 mx-auto">
           {/* About Me */}
           <div className="mb-20">
-            <h1 className="text-2xl sm:text-3xl mb-2 text-gray-900">
-              About Me
+            <h1 className="mb-2 text-gray-900 font-serif text-3xl sm:text-6xl">
+              Experience
             </h1>
           </div>
           {/* カードのdivタグ */}
