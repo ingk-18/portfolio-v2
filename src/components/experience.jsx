@@ -39,7 +39,18 @@ const experience = () => {
                   <p>
                     Lorem ipsum dolor, sit amet consectetur adipisicing elit.
                     Eveniet, molestias facilis. Dicta, quos asperiores voluptate
-                    officia et totam enim delectus?
+                    officia et totam enim delectus? Lorem ipsum dolor, sit amet
+                    consectetur adipisicing elit. Eveniet, molestias facilis.
+                    Dicta, quos asperiores voluptate officia et totam enim
+                    delectus?
+                  </p>
+                  <p className="hidden">
+                    いくつもの出会いと別れ振り返って、思う一人で生きるより永久に傷つきたい
+                    そう思えなきゃ楽しくないじゃん過去から学ぶより君に近づきたい今夜のことは誰にも言わない
+                    いくつもの出会いと別れ振り返って、思う一人で生きるより永久に傷つきたい
+                    そう思えなきゃ楽しくないじゃん過去から学ぶより君に近づきたい今夜のことは誰にも言わない
+                    いくつもの出会いと別れ振り返って、思う一人で生きるより永久に傷つきたい
+                    そう思えなきゃ楽しくないじゃん過去から学ぶより君に近づきたい今夜のことは誰にも言わない
                   </p>
                   <a href="" className="flex mt-3 text-green-500 items-center">
                     もっとみる

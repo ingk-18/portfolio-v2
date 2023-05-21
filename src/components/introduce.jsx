@@ -9,7 +9,7 @@ const introduce = () => {
             <img className="rounded-lg" src="./img/icon.jpg" alt="" />
           </div>
           <div className="md:w-1/2 font-serif lg:pl-4 md:pl-2">
-            <h1 className="text-3xl sm:text-6xl">GAKY</h1>
+            <h1 className="text-3xl sm:text-6xl mb-4">About</h1>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae
               molestiae explicabo tempora. Tempore, provident. Voluptates porro
