@@ -9,29 +9,27 @@ const stack = () => {
 
           <div className="flex flex-wrap flex-col  sm:flex-row justify-between items-center py-4">
             <div>
-              <img width="300" height="300" src="./img/php.jpg" alt="" />
+              <img width="300" height="300" src="./img/php.png" alt="" />
             </div>
-            <h1 className="text-3xl sm:text-6xl py-6">php</h1>
             <h1 className="text-3xl sm:text-6xl py-6">CakePHP</h1>
             <h1 className="text-3xl sm:text-6xl py-6">Laravel</h1>
           </div>
 
           <div className="flex flex-wrap flex-col  sm:flex-row justify-between items-center py-4">
             <div>
-              <img width="300" height="300" src="./img/javascript.jpg" alt="" />
+              <img width="300" height="300" src="./img/javascript.png" alt="" />
             </div>
 
-            <h1 className="text-3xl sm:text-6xl py-6">JavaScript</h1>
             <h1 className="text-3xl sm:text-6xl py-6">React</h1>
             <h1 className="text-3xl sm:text-6xl py-6">jQuery</h1>
           </div>
 
           <div className="flex flex-wrap flex-col  sm:flex-row justify-between items-center py-4">
-            <div>
-              <img width="300" height="300" src="./img/others.jpg" alt="" />
+            <div width="300" height="250">
+              {/* <h1 className="text-3xl sm:text-6xl py-6">Others</h1> */}
+              <img width="300" height="300" src="./img/others.png" alt="" />
             </div>
 
-            <h1 className="text-3xl sm:text-6xl py-6">Others</h1>
             <h1 className="text-3xl sm:text-6xl py-6">Docker</h1>
             <h1 className="text-3xl sm:text-6xl py-6">AWS</h1>
           </div>
